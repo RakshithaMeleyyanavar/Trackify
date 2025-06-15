@@ -18,17 +18,6 @@ missing cases and live facial recognition across databases.
 🧰 Lightweight & Offline Capable – No internet dependency, runs on local machine
 📊 Scalable Design – Extendable for law enforcement or NGO datasets
 
-Trackify/
-│
-├── main.py                # Entry point for webcam + detection
-├── simple_facerec.py      # Face encoding and recognition logic
-├── report_matcher.py      # Maps faces to their reports
-├── images1/               # Folder with known face images
-├── reports/               # Case details linked to faces
-├── dlib-19.22.1...whl     # Offline wheel for installation
-├── __pycache__/           # Python cache files
-└── .idea/                 # IDE config
-
 
 📸 Sample Workflow
 
